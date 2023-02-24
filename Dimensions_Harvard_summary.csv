@@ -1,0 +1,431 @@
+"""About the data: Analytical views - Publisher - Exported on Feb 24, 2023. Criteria: Publication Year is 2021; Research Organization is Harvard University. © 2023 Digital Science &amp; Research Solutions Inc. All rights reserved. Parts of this work may also be protected by copyright of content providers and other third parties, which together with all rights of Digital Science, user agrees not to violate. Redistribution / external use of this work (or parts thereof) is prohibited without prior written approval. Please contact info@dimensions.ai for further information.""
+",,,,,,,,
+Name,Rank All Publications,Publications,Rank % All Publications,% All publications,Rank Closed Pub,Closed Pub,Rank % Closed Pub,% Closed Pub
+Elsevier,1,7952,1,22.96,1,2810,1,26.65
+Springer Nature,2,5217,2,15.06,2,1628,2,15.44
+Wiley,3,2890,3,8.34,3,1457,3,13.82
+Cold Spring Harbor Laboratory,4,2053,4,5.93,77,3,77,0.03
+Wolters Kluwer,5,1955,5,5.65,4,818,4,7.76
+Oxford University Press (OUP),6,1602,6,4.63,6,361,6,3.42
+MDPI,7,889,7,2.57,164,0,164,0.00
+Frontiers,8,888,8,2.56,164,0,164,0.00
+Taylor & Francis,9,818,9,2.36,5,462,5,4.38
+American Medical Association (AMA),10,737,10,2.13,9,194,9,1.84
+SAGE Publications,11,632,11,1.82,7,356,7,3.38
+BMJ,12,500,12,1.44,14,85,14,0.81
+Public Library of Science (PLoS),13,392,13,1.13,164,0,164,0.00
+Institute of Electrical and Electronics Engineers (IEEE),14,372,14,1.07,10,179,10,1.70
+American Society of Clinical Oncology (ASCO),15,357,15,1.03,8,263,8,2.49
+American Chemical Society (ACS),16,348,16,1.00,11,164,11,1.56
+Cambridge University Press (CUP),17,319,17,0.92,12,146,12,1.38
+American Association for the Advancement of Science (AAAS),18,316,18,0.91,16,73,16,0.69
+American Society of Hematology,19,306,19,0.88,77,3,77,0.03
+Research Square Platform LLC,20,290,20,0.84,164,0,164,0.00
+American Physical Society (APS),21,259,21,0.75,49,10,49,0.09
+Proceedings of the National Academy of Sciences,22,246,22,0.71,43,15,43,0.14
+American Association for Cancer Research (AACR),23,245,23,0.71,45,14,45,0.13
+Mary Ann Liebert,24,230,24,0.66,13,137,13,1.30
+American Thoracic Society,25,157,25,0.45,25,29,25,0.28
+IOP Publishing,26,144,26,0.42,21,37,21,0.35
+Thieme,27,143,27,0.41,15,79,15,0.75
+Environmental Health Perspectives,28,136,28,0.39,164,0,164,0.00
+Association for Computing Machinery (ACM),29,134,29,0.39,18,65,18,0.62
+American Society for Microbiology,30,129,30,0.37,50,9,50,0.09
+JMIR Publications,31,121,31,0.35,164,0,164,0.00
+The Endocrine Society,32,105,32,0.30,66,4,66,0.04
+eLife,32,105,32,0.30,164,0,164,0.00
+Copernicus Publications,34,97,34,0.28,164,0,164,0.00
+American Academy of Pediatrics (AAP),35,96,35,0.28,17,68,17,0.64
+Hindawi,35,96,35,0.28,43,15,43,0.14
+American Psychological Association (APA),37,88,37,0.25,19,40,19,0.38
+American Society for Clinical Investigation,38,83,38,0.24,164,0,164,0.00
+Royal Society of Chemistry (RSC),39,80,39,0.23,25,29,25,0.28
+American Astronomical Society,40,77,40,0.22,164,0,164,0.00
+Karger Publishers,41,69,41,0.20,36,20,36,0.19
+Association for Research in Vision and Ophthalmology (ARVO),42,65,42,0.19,164,0,164,0.00
+American Geophysical Union (AGU),43,64,43,0.18,36,20,36,0.19
+Cureus,43,64,43,0.18,164,0,164,0.00
+American Diabetes Association,45,61,45,0.18,93,2,93,0.02
+IOS Press,46,60,46,0.17,33,21,33,0.20
+Health Affairs,47,58,47,0.17,22,36,22,0.34
+American College of Physicians,48,57,48,0.16,24,32,24,0.30
+The Royal Society,49,56,49,0.16,93,2,93,0.02
+Annual Reviews,50,54,50,0.16,25,29,25,0.28
+AIP Publishing,51,53,51,0.15,45,14,45,0.13
+AME Publishing Company,52,47,52,0.14,93,2,93,0.02
+De Gruyter,52,47,52,0.14,39,18,39,0.17
+Massachusetts Medical Society,54,43,54,0.12,30,27,30,0.26
+Journal of Neurosurgery Publishing Group (JNSPG),55,42,55,0.12,39,18,39,0.17
+Radiological Society of North America (RSNA),55,42,55,0.12,31,25,31,0.24
+Institute for Operations Research and the Management Sciences (INFORMS),57,41,57,0.12,25,29,25,0.28
+Academy of Management,58,40,58,0.12,20,39,20,0.37
+American Roentgen Ray Society,59,37,59,0.11,23,34,23,0.32
+Brill Academic Publishers,59,37,59,0.11,25,29,25,0.28
+Society for Neuroscience,59,37,59,0.11,164,0,164,0.00
+World Scientific Publishing,59,37,59,0.11,36,20,36,0.19
+European Respiratory Society (ERS),63,35,63,0.10,50,9,50,0.09
+American Physiological Society,64,34,64,0.10,48,13,48,0.12
+"Physicians Postgraduate Press, Inc",65,32,65,0.09,32,24,32,0.23
+Rockefeller University Press,65,32,65,0.09,164,0,164,0.00
+American Public Health Association,67,29,67,0.08,33,21,33,0.20
+MIT Press,67,29,67,0.08,56,8,56,0.08
+Future Science Group,69,28,69,0.08,50,9,50,0.09
+"Impact Journals, LLC",69,28,69,0.08,164,0,164,0.00
+Royal College of Psychiatrists,69,28,69,0.08,115,1,115,0.01
+American Psychiatric Association Publishing,72,27,72,0.08,39,18,39,0.17
+Duke University Press,72,27,72,0.08,33,21,33,0.20
+Ivyspring International Publisher,72,27,72,0.08,164,0,164,0.00
+American Economic Association,75,26,75,0.08,93,2,93,0.02
+EMBO,76,25,76,0.07,77,3,77,0.03
+Bentham Science Publishers,77,24,77,0.07,42,17,42,0.16
+The Company of Biologists,78,23,78,0.07,77,3,77,0.03
+International Press of Boston,79,21,79,0.06,66,4,66,0.04
+"SPIE, the international society for optics and photonics",79,21,79,0.06,58,6,58,0.06
+American Academy of Sleep Medicine (AASM),81,19,81,0.05,77,3,77,0.03
+International Society of Global Health,81,19,81,0.05,164,0,164,0.00
+International Union Against Tuberculosis and Lung Disease,81,19,81,0.05,50,9,50,0.09
+Ubiquity Press,81,19,81,0.05,164,0,164,0.00
+Faculty of 1000,85,18,85,0.05,115,1,115,0.01
+Institute of Mathematical Statistics,85,18,85,0.05,115,1,115,0.01
+Ferrata Storti Foundation (Haematologica),87,16,87,0.05,164,0,164,0.00
+Authorea,88,15,88,0.04,164,0,164,0.00
+Edizioni Minerva Medica,88,15,88,0.04,45,14,45,0.13
+The American Association of Immunologists,88,15,88,0.04,77,3,77,0.03
+XMLink,88,15,88,0.04,164,0,164,0.00
+American Meteorological Society,92,14,92,0.04,50,9,50,0.09
+American Society of Tropical Medicine and Hygiene,92,14,92,0.04,164,0,164,0.00
+FapUNIFESP (SciELO),92,14,92,0.04,164,0,164,0.00
+American Society of Neuroradiology (ASNR),95,13,95,0.04,164,0,164,0.00
+Emerald,95,13,95,0.04,50,9,50,0.09
+The Econometric Society,95,13,95,0.04,93,2,93,0.02
+American Speech Language Hearing Association,98,11,98,0.03,115,1,115,0.01
+"Bio-Protocol, LLC",98,11,98,0.03,115,1,115,0.01
+"Harborside Press, LLC",98,11,98,0.03,60,5,60,0.05
+Magnolia Press,98,11,98,0.03,58,6,58,0.06
+Optica Publishing Group,98,11,98,0.03,164,0,164,0.00
+Western Journal of Emergency Medicine,98,11,98,0.03,164,0,164,0.00
+American Society of Interventional Pain Physicians,104,10,104,0.03,164,0,164,0.00
+Baishideng Publishing Group,104,10,104,0.03,164,0,164,0.00
+EDP Sciences,104,10,104,0.03,164,0,164,0.00
+"Johns Hopkins School Bloomberg School of Public Health, Center for Communication Programs",104,10,104,0.03,164,0,164,0.00
+American Educational Research Association (AERA),108,9,108,0.03,57,7,57,0.07
+American Society for Cell Biology (ASCB),108,9,108,0.03,115,1,115,0.01
+Frontline Medical Communications,108,9,108,0.03,93,2,93,0.02
+International Joint Conferences on Artificial Intelligence,108,9,108,0.03,164,0,164,0.00
+Maad Rayan Publishing Company,108,9,108,0.03,164,0,164,0.00
+PeerJ,108,9,108,0.03,164,0,164,0.00
+Society of Nuclear Medicine,108,9,108,0.03,164,0,164,0.00
+Stichting SciPost,108,9,108,0.03,164,0,164,0.00
+University of California Press,108,9,108,0.03,60,5,60,0.05
+Academy of Managed Care Pharmacy,117,8,117,0.02,66,4,66,0.04
+Association of American Medical Colleges,117,8,117,0.02,164,0,164,0.00
+Briefland,117,8,117,0.02,164,0,164,0.00
+British Institute of Radiology,117,8,117,0.02,93,2,93,0.02
+Edinburgh University Library,117,8,117,0.02,164,0,164,0.00
+European Mathematical Society - EMS - Publishing House GmbH,117,8,117,0.02,93,2,93,0.02
+SERDI,117,8,117,0.02,115,1,115,0.01
+Universidade Federal do Rio Grande do Sul,117,8,117,0.02,115,1,115,0.01
+Acoustical Society of America (ASA),125,7,125,0.02,77,3,77,0.03
+Anticancer Research USA Inc.,125,7,125,0.02,164,0,164,0.00
+California Digital Library (CDL),125,7,125,0.02,164,0,164,0.00
+Centers for Disease Control and Prevention (CDC),125,7,125,0.02,164,0,164,0.00
+IMR Press,125,7,125,0.02,164,0,164,0.00
+Japan Epidemiological Association,125,7,125,0.02,164,0,164,0.00
+Microbiology Society,125,7,125,0.02,115,1,115,0.01
+"Museum of Comparative Zoology, Harvard University",125,7,125,0.02,115,1,115,0.01
+OAE Publishing Inc.,125,7,125,0.02,164,0,164,0.00
+Portland Press,125,7,125,0.02,77,3,77,0.03
+AACN Publishing,135,6,135,0.02,93,2,93,0.02
+American Mathematical Society (AMS),135,6,135,0.02,164,0,164,0.00
+Bioscientifica,135,6,135,0.02,115,1,115,0.01
+British Editorial Society of Bone & Joint Surgery,135,6,135,0.02,66,4,66,0.04
+CSIRO Publishing,135,6,135,0.02,60,5,60,0.05
+E.U. European Publishing,135,6,135,0.02,164,0,164,0.00
+EDITORA SCIENTIFIC,135,6,135,0.02,164,0,164,0.00
+Guilford Publications,135,6,135,0.02,60,5,60,0.05
+IGI Global,135,6,135,0.02,66,4,66,0.04
+International Union of Crystallography (IUCr),135,6,135,0.02,115,1,115,0.01
+Journal of Graduate Medical Education,135,6,135,0.02,164,0,164,0.00
+"Life Science Alliance, LLC",135,6,135,0.02,164,0,164,0.00
+Open Medical Publishing,135,6,135,0.02,164,0,164,0.00
+Pan African Medical Journal,135,6,135,0.02,164,0,164,0.00
+Spandidos Publications,135,6,135,0.02,164,0,164,0.00
+Termedia Sp. z.o.o.,135,6,135,0.02,164,0,164,0.00
+American Vacuum Society,151,5,151,0.01,164,0,164,0.00
+Archives of Pathology and Laboratory Medicine,151,5,151,0.01,164,0,164,0.00
+Becaris Publishing Limited,151,5,151,0.01,77,3,77,0.03
+Brill Deutschland GmbH,151,5,151,0.01,60,5,60,0.05
+Daedalus Enterprises,151,5,151,0.01,77,3,77,0.03
+Harvard University Botany Libraries,151,5,151,0.01,66,4,66,0.04
+Hogrefe Publishing Group,151,5,151,0.01,93,2,93,0.02
+Human Kinetics,151,5,151,0.01,66,4,66,0.04
+John Libbey Eurotext,151,5,151,0.01,77,3,77,0.03
+"Managed Care and Healthcare Communications, LLC",151,5,151,0.01,66,4,66,0.04
+Medical Journals Sweden AB,151,5,151,0.01,164,0,164,0.00
+Now Publishers,151,5,151,0.01,93,2,93,0.02
+Pensoft Publishers,151,5,151,0.01,164,0,164,0.00
+Scientific Research Publishing,151,5,151,0.01,164,0,164,0.00
+The Electrochemical Society,151,5,151,0.01,60,5,60,0.05
+University of Toronto Press,151,5,151,0.01,66,4,66,0.04
+ASME International,167,4,167,0.01,164,0,164,0.00
+Aurora Health Care,167,4,167,0.01,164,0,164,0.00
+Berghahn Books,167,4,167,0.01,164,0,164,0.00
+Centers for Disease Control MMWR Office,167,4,167,0.01,164,0,164,0.00
+Clinical and Experimental Rheumatology,167,4,167,0.01,93,2,93,0.02
+EAGE Publications,167,4,167,0.01,66,4,66,0.04
+Ethnicity and Disease Inc,167,4,167,0.01,164,0,164,0.00
+Humboldt Field Research Institute,167,4,167,0.01,66,4,66,0.04
+Instituto Nacional de Salud Publica,167,4,167,0.01,164,0,164,0.00
+International Journal of Particle Therapy,167,4,167,0.01,164,0,164,0.00
+Knowledge E DMCC,167,4,167,0.01,164,0,164,0.00
+MIT Science Policy Review,167,4,167,0.01,164,0,164,0.00
+MyJove Corporation,167,4,167,0.01,77,3,77,0.03
+National Academy of Medicine,167,4,167,0.01,164,0,164,0.00
+Oceanside Publications,167,4,167,0.01,77,3,77,0.03
+Scientific Scholar,167,4,167,0.01,115,1,115,0.01
+Sociedade Brasileira de Cardiologia,167,4,167,0.01,164,0,164,0.00
+Society of Teachers of Family Medicine,167,4,167,0.01,164,0,164,0.00
+The Korean Society of Gastrointestinal Endoscopy,167,4,167,0.01,164,0,164,0.00
+"University Library System, University of Pittsburgh",167,4,167,0.01,164,0,164,0.00
+AOSIS,187,3,187,0.01,164,0,164,0.00
+African Journals Online (AJOL),187,3,187,0.01,164,0,164,0.00
+American Institute of Aeronautics and Astronautics (AIAA),187,3,187,0.01,77,3,77,0.03
+Antiquity Publications,187,3,187,0.01,115,1,115,0.01
+Digital Journal of Opthalmology,187,3,187,0.01,164,0,164,0.00
+Geological Society of America,187,3,187,0.01,115,1,115,0.01
+Hellenic Society of Gastroenterology,187,3,187,0.01,164,0,164,0.00
+Inderscience Publishers,187,3,187,0.01,93,2,93,0.02
+Intellect,187,3,187,0.01,93,2,93,0.02
+International Scientific Information,187,3,187,0.01,164,0,164,0.00
+Japanese Society of Microbial Ecology,187,3,187,0.01,164,0,164,0.00
+Johns Hopkins University Press,187,3,187,0.01,77,3,77,0.03
+Journal of Athletic Training/NATA,187,3,187,0.01,164,0,164,0.00
+Korean Society of Epidemiology,187,3,187,0.01,164,0,164,0.00
+Organizacion de Estados Iberoamericanos,187,3,187,0.01,164,0,164,0.00
+Pan American Health Organization,187,3,187,0.01,164,0,164,0.00
+Principles and Practice of Clinical Research,187,3,187,0.01,164,0,164,0.00
+"Publicidad Permanyer, SLU",187,3,187,0.01,164,0,164,0.00
+Seismological Society of America (SSA),187,3,187,0.01,93,2,93,0.02
+South African Medical Association NPC,187,3,187,0.01,164,0,164,0.00
+The Association of Faculties of Medicine of Canada,187,3,187,0.01,164,0,164,0.00
+Universidade Federal da Fronteira Sul,187,3,187,0.01,164,0,164,0.00
+"Universidade de Sao Paulo, Agencia USP de Gestao da Informacao Academica (AGUIA)",187,3,187,0.01,164,0,164,0.00
+University of Illinois Press,187,3,187,0.01,77,3,77,0.03
+University of Toronto Libraries - UOTL,187,3,187,0.01,164,0,164,0.00
+WHO Press,187,3,187,0.01,164,0,164,0.00
+Weston Medical Publishing,187,3,187,0.01,115,1,115,0.01
+Academia.edu,214,2,214,0.01,93,2,93,0.02
+Aging and Disease,214,2,214,0.01,164,0,164,0.00
+Akademiai Kiado Zrt.,214,2,214,0.01,164,0,164,0.00
+American Arachnological Society,214,2,214,0.01,115,1,115,0.01
+American Association for Laboratory Animal Science,214,2,214,0.01,115,1,115,0.01
+American Board of Family Medicine (ABFM),214,2,214,0.01,164,0,164,0.00
+American Society for Pharmacology & Experimental Therapeutics (ASPET),214,2,214,0.01,164,0,164,0.00
+American Society of Plant Taxonomists,214,2,214,0.01,93,2,93,0.02
+American Spinal Injury Association,214,2,214,0.01,164,0,164,0.00
+Association of Basic Medical Sciences of FBIH,214,2,214,0.01,164,0,164,0.00
+Bristol University Press,214,2,214,0.01,115,1,115,0.01
+Chinese Center for Disease Control and Prevention,214,2,214,0.01,164,0,164,0.00
+ClinMed International Library,214,2,214,0.01,164,0,164,0.00
+Clinics Cardive Publishing,214,2,214,0.01,164,0,164,0.00
+Compuscript,214,2,214,0.01,164,0,164,0.00
+"Elmer Press, Inc.",214,2,214,0.01,164,0,164,0.00
+EpiSmart Science Vector Ltd,214,2,214,0.01,164,0,164,0.00
+Geological Society of London,214,2,214,0.01,164,0,164,0.00
+Index Copernicus,214,2,214,0.01,93,2,93,0.02
+Japan Kaatsu Training Society,214,2,214,0.01,164,0,164,0.00
+Japan Medical Association,214,2,214,0.01,164,0,164,0.00
+King Faisal Specialist Hospital and Research Centre - DIGITAL COMMONS JOURNALS,214,2,214,0.01,164,0,164,0.00
+Korean Pediatric Society,214,2,214,0.01,164,0,164,0.00
+Korean Society of Ultrasound in Medicine,214,2,214,0.01,164,0,164,0.00
+Longwoods Publishing,214,2,214,0.01,164,0,164,0.00
+Louisiana State University Libraries,214,2,214,0.01,164,0,164,0.00
+MJH Life Sciences,214,2,214,0.01,164,0,164,0.00
+Mark Allen Group,214,2,214,0.01,93,2,93,0.02
+National Inquiry Services Center (NISC),214,2,214,0.01,93,2,93,0.02
+National Institute for Health and Care Research (NIHR),214,2,214,0.01,164,0,164,0.00
+New York University,214,2,214,0.01,164,0,164,0.00
+Open Library of the Humanities,214,2,214,0.01,164,0,164,0.00
+Pleiades Publishing,214,2,214,0.01,93,2,93,0.02
+Radcliffe Cardiology,214,2,214,0.01,164,0,164,0.00
+SMW Supporting Association,214,2,214,0.01,164,0,164,0.00
+SRUMB - Romanian Society for Ultrasonography in Medicine and Biology,214,2,214,0.01,164,0,164,0.00
+ScienceOpen,214,2,214,0.01,164,0,164,0.00
+Scientific Archives LLC,214,2,214,0.01,164,0,164,0.00
+Scitepress,214,2,214,0.01,115,1,115,0.01
+Sistema de Bibliotecas PUCP,214,2,214,0.01,164,0,164,0.00
+Sociedade Brasileira de Cirurgia Cardiovascular,214,2,214,0.01,164,0,164,0.00
+Sociedade Brasileira de Pneumologia e Tisiologia,214,2,214,0.01,164,0,164,0.00
+Society for Music Theory,214,2,214,0.01,164,0,164,0.00
+The Biological Society of Washington,214,2,214,0.01,93,2,93,0.02
+The Journal of Health Economics and Outcomes Research,214,2,214,0.01,164,0,164,0.00
+Trinidad and Tobago Medical Association,214,2,214,0.01,164,0,164,0.00
+Universa BV,214,2,214,0.01,164,0,164,0.00
+Universidad del Valle,214,2,214,0.01,164,0,164,0.00
+University of Massachusetts Medical School,214,2,214,0.01,164,0,164,0.00
+University of Michigan Law Library,214,2,214,0.01,164,0,164,0.00
+Uppsala Medical Society,214,2,214,0.01,164,0,164,0.00
+AOTA Press,265,1,265,0.00,115,1,115,0.01
+ASM International,265,1,265,0.00,164,0,164,0.00
+Academicus Journal,265,1,265,0.00,164,0,164,0.00
+Alcohol Research Documentation,265,1,265,0.00,164,0,164,0.00
+American Academy of Implant Dentistry,265,1,265,0.00,115,1,115,0.01
+American Association of Physics Teachers (AAPT),265,1,265,0.00,115,1,115,0.01
+American Institute of Mathematical Sciences (AIMS),265,1,265,0.00,164,0,164,0.00
+American Journal of Pharmaceutical Education,265,1,265,0.00,164,0,164,0.00
+American Nephrology Nurses Association,265,1,265,0.00,115,1,115,0.01
+American Scientific Publishers,265,1,265,0.00,115,1,115,0.01
+American Society for Biochemistry & Molecular Biology (ASBMB),265,1,265,0.00,164,0,164,0.00
+American Society for Engineering Education,265,1,265,0.00,164,0,164,0.00
+Amsterdam University Press,265,1,265,0.00,115,1,115,0.01
+Association for Computational Linguistics (ACL),265,1,265,0.00,164,0,164,0.00
+Association of Biomolecular Resource Facilities,265,1,265,0.00,164,0,164,0.00
+Bernoulli Society for Mathematical Statistics and Probability,265,1,265,0.00,164,0,164,0.00
+BioExcel,265,1,265,0.00,164,0,164,0.00
+COPD Foundation,265,1,265,0.00,164,0,164,0.00
+Canadian Mathematical Society,265,1,265,0.00,164,0,164,0.00
+Canadian Urological Association Journal,265,1,265,0.00,164,0,164,0.00
+Case Western Reserve University,265,1,265,0.00,164,0,164,0.00
+Center for Transportation Studies,265,1,265,0.00,164,0,164,0.00
+China Anti-cancer Association,265,1,265,0.00,164,0,164,0.00
+Chinese Journal of Cancer Research,265,1,265,0.00,164,0,164,0.00
+Cleveland Clinic Journal of Medicine,265,1,265,0.00,164,0,164,0.00
+Clinical Exercise Physiology Association,265,1,265,0.00,115,1,115,0.01
+Dougmar Publishing Group,265,1,265,0.00,164,0,164,0.00
+Edicions de la Universitat de Barcelona,265,1,265,0.00,164,0,164,0.00
+Edinburgh University Press,265,1,265,0.00,115,1,115,0.01
+Editorial de la Universidad de Granada,265,1,265,0.00,115,1,115,0.01
+"Edizioni Internazionali srl, Divisione EDIMES Edizioni Medico-Scientifiche",265,1,265,0.00,164,0,164,0.00
+Edra SpA,265,1,265,0.00,164,0,164,0.00
+EduRad,265,1,265,0.00,164,0,164,0.00
+Egypts Presidential Specialized Council for Education and Scientific Research,265,1,265,0.00,164,0,164,0.00
+Europa Digital & Publishing,265,1,265,0.00,164,0,164,0.00
+European Association of Cardiothoracic Surgery Publishing,265,1,265,0.00,115,1,115,0.01
+European Centre for Disease Control and Prevention (ECDC),265,1,265,0.00,164,0,164,0.00
+European Medical Group,265,1,265,0.00,164,0,164,0.00
+Faculty of Medicine Prince of Songkla University,265,1,265,0.00,164,0,164,0.00
+"Faculty of Medicine Siriraj Hospital, Mahidol University",265,1,265,0.00,164,0,164,0.00
+Farname,265,1,265,0.00,164,0,164,0.00
+Federal Reserve Bank of Cleveland,265,1,265,0.00,164,0,164,0.00
+Forum for Medical Ethics Society,265,1,265,0.00,164,0,164,0.00
+Foundation for Open Access Statistic,265,1,265,0.00,164,0,164,0.00
+Fundacio Barcelona Respiratory Network,265,1,265,0.00,164,0,164,0.00
+Ghent University,265,1,265,0.00,164,0,164,0.00
+Harvard Education Publishing Group,265,1,265,0.00,115,1,115,0.01
+IJAICT India Publications,265,1,265,0.00,164,0,164,0.00
+IWA Publishing,265,1,265,0.00,164,0,164,0.00
+Infectious Disease and Control Branch (IDPCB) - Public Health Agency of Canada,265,1,265,0.00,164,0,164,0.00
+Innovative Healthcare Institute,265,1,265,0.00,164,0,164,0.00
+Institute of Noise Control Engineering (INCE),265,1,265,0.00,115,1,115,0.01
+International Journal of Medical Education,265,1,265,0.00,164,0,164,0.00
+International Journal of Spine Surgery,265,1,265,0.00,164,0,164,0.00
+International Society for the Scholarship of Teaching and Learning,265,1,265,0.00,164,0,164,0.00
+JCFCorp SG PTE LTD,265,1,265,0.00,164,0,164,0.00
+Japan Neurosurgical Society,265,1,265,0.00,164,0,164,0.00
+Japanese Association for Laboratory Animal Science,265,1,265,0.00,164,0,164,0.00
+Japanese Association of Sign Linguistics,265,1,265,0.00,164,0,164,0.00
+Japanese Circulation Society,265,1,265,0.00,164,0,164,0.00
+Japanese Society of Internal Medicine,265,1,265,0.00,164,0,164,0.00
+JoGH,265,1,265,0.00,164,0,164,0.00
+John Benjamins Publishing Company,265,1,265,0.00,115,1,115,0.01
+Journal of Advanced Dentistry,265,1,265,0.00,115,1,115,0.01
+Journal of Sports Science and Medicine,265,1,265,0.00,164,0,164,0.00
+Knowledge Enterprise Journals,265,1,265,0.00,164,0,164,0.00
+Korea Disease Control and Prevention Agency,265,1,265,0.00,164,0,164,0.00
+Korean Association for the Study of Intestinal Diseases,265,1,265,0.00,164,0,164,0.00
+Korean Association of Anatomists,265,1,265,0.00,164,0,164,0.00
+Korean Cancer Association,265,1,265,0.00,164,0,164,0.00
+Korean College of Neuropsychopharmacology,265,1,265,0.00,164,0,164,0.00
+Korean Diabetes Association,265,1,265,0.00,164,0,164,0.00
+Korean Pain Society,265,1,265,0.00,164,0,164,0.00
+Korean Shoulder and Elbow Society,265,1,265,0.00,164,0,164,0.00
+Korean Society for Preventive Medicine,265,1,265,0.00,164,0,164,0.00
+Korean Society of Sleep Medicine,265,1,265,0.00,164,0,164,0.00
+Korean Stroke Society,265,1,265,0.00,164,0,164,0.00
+Leibniz Institute for Psychology (ZPID),265,1,265,0.00,164,0,164,0.00
+Levy Library Press,265,1,265,0.00,164,0,164,0.00
+Loma Linda Publishing Company,265,1,265,0.00,164,0,164,0.00
+Mattioli1885,265,1,265,0.00,164,0,164,0.00
+Max Planck Institute for Demographic Research,265,1,265,0.00,164,0,164,0.00
+Medecine et Hygiene,265,1,265,0.00,115,1,115,0.01
+MediaSphere Medical LLC,265,1,265,0.00,164,0,164,0.00
+Methodist DeBakey Cardiovascular Journal,265,1,265,0.00,164,0,164,0.00
+Missouri Botanical Garden Press,265,1,265,0.00,115,1,115,0.01
+National Council of Teachers of Mathematics,265,1,265,0.00,115,1,115,0.01
+National Institute of Industrial Health,265,1,265,0.00,164,0,164,0.00
+National Institute on Alcohol Abuse and Alcoholism,265,1,265,0.00,164,0,164,0.00
+"National Museum, Czech Republic",265,1,265,0.00,164,0,164,0.00
+Nepal Journals Online (JOL),265,1,265,0.00,164,0,164,0.00
+Open Exploration Publishing,265,1,265,0.00,164,0,164,0.00
+PAGEPress Publications,265,1,265,0.00,164,0,164,0.00
+Partners in Digital Health,265,1,265,0.00,164,0,164,0.00
+Penerbit Universiti Sains Malaysia,265,1,265,0.00,164,0,164,0.00
+Philosophy of Education Society,265,1,265,0.00,164,0,164,0.00
+Physical Society of Japan,265,1,265,0.00,164,0,164,0.00
+Press of International Journal of Ophthalmology (IJO Press),265,1,265,0.00,164,0,164,0.00
+Privacy Enhancing Technologies Symposium Advisory Board,265,1,265,0.00,164,0,164,0.00
+Publishing House Nestor-Historia,265,1,265,0.00,164,0,164,0.00
+Research in Corpus Linguistics,265,1,265,0.00,164,0,164,0.00
+Research-Publishing.net,265,1,265,0.00,164,0,164,0.00
+SLACK,265,1,265,0.00,164,0,164,0.00
+Salvia Medical Sciences,265,1,265,0.00,164,0,164,0.00
+"Scandinavian Journal of Work, Environment and Health",265,1,265,0.00,164,0,164,0.00
+"School of Religion, Philosophy and Classics, Howard College Campus - UKZN",265,1,265,0.00,115,1,115,0.01
+Science China Press,265,1,265,0.00,164,0,164,0.00
+Scientific and Practical Reviewed Journal Pulmonology,265,1,265,0.00,164,0,164,0.00
+"Shorenstein Center for Media, Politics, and Public Policy",265,1,265,0.00,164,0,164,0.00
+Siapec Servizi Srl,265,1,265,0.00,164,0,164,0.00
+Skvortsovia. International Journal of Salicology and Plant Biology. Institute Botanic Garden UB RAS,265,1,265,0.00,115,1,115,0.01
+Sociedade Brasileira de Computacao - SB,265,1,265,0.00,164,0,164,0.00
+Sociedade Brasileira de Geriatria e Gerontologia,265,1,265,0.00,164,0,164,0.00
+Society for Industrial & Applied Mathematics (SIAM),265,1,265,0.00,164,0,164,0.00
+Society for the Preservation of Natural History Collections (SPNHC),265,1,265,0.00,115,1,115,0.01
+Society of Exploration Geophysicists,265,1,265,0.00,115,1,115,0.01
+Society of Petroleum Engineers (SPE),265,1,265,0.00,115,1,115,0.01
+Southern Medical Association,265,1,265,0.00,115,1,115,0.01
+Sri Lanka Journals Online (JOL),265,1,265,0.00,164,0,164,0.00
+Stichting Nase,265,1,265,0.00,164,0,164,0.00
+Stockholm University Press,265,1,265,0.00,164,0,164,0.00
+Surgical Technology Online,265,1,265,0.00,115,1,115,0.01
+The Bulletin of Zoological Nomenclature,265,1,265,0.00,115,1,115,0.01
+The Chemical Society of Japan,265,1,265,0.00,164,0,164,0.00
+The Japanese Society of Clinical Neuropsychopharmacology,265,1,265,0.00,164,0,164,0.00
+The Journal of Rheumatology,265,1,265,0.00,164,0,164,0.00
+The Korean Geriatrics Society,265,1,265,0.00,164,0,164,0.00
+The Korean Society of Emergency Medicine,265,1,265,0.00,164,0,164,0.00
+The Korean Society of Neurogastroenterology and Motility,265,1,265,0.00,164,0,164,0.00
+The Korean Society of Pathologists and The Korean Society for Cytopathology,265,1,265,0.00,164,0,164,0.00
+The Korean Spinal Neurosurgery Society,265,1,265,0.00,164,0,164,0.00
+The Pennsylvania State University Press,265,1,265,0.00,115,1,115,0.01
+Touch Digital Media,265,1,265,0.00,164,0,164,0.00
+Transpopmed,265,1,265,0.00,164,0,164,0.00
+Tree-Ring Society,265,1,265,0.00,115,1,115,0.01
+Tsinghua University Press,265,1,265,0.00,164,0,164,0.00
+UCL Press,265,1,265,0.00,164,0,164,0.00
+Universidad Externado de Colombia,265,1,265,0.00,164,0,164,0.00
+Universidad de Costa Rica,265,1,265,0.00,164,0,164,0.00
+Universidade Federal de Alogoas,265,1,265,0.00,164,0,164,0.00
+Universitat de Valencia,265,1,265,0.00,164,0,164,0.00
+University of Alberta Libraries,265,1,265,0.00,164,0,164,0.00
+University of Arizona,265,1,265,0.00,164,0,164,0.00
+University of Bern,265,1,265,0.00,164,0,164,0.00
+University of Chicago Press,265,1,265,0.00,115,1,115,0.01
+University of Groningen Press,265,1,265,0.00,164,0,164,0.00
+University of Illinois Libraries,265,1,265,0.00,164,0,164,0.00
+University of Minnesota Press,265,1,265,0.00,164,0,164,0.00
+University of Nebraska Consortium of Libraries - UNCL,265,1,265,0.00,164,0,164,0.00
+University of Notre Dame,265,1,265,0.00,164,0,164,0.00
+"University of Rijeka, Faculty of Medicine",265,1,265,0.00,164,0,164,0.00
+University of Tartu,265,1,265,0.00,164,0,164,0.00
+University of Wales Press/Gwasg Prifysgol Cymru,265,1,265,0.00,115,1,115,0.01
+University of Warsaw,265,1,265,0.00,164,0,164,0.00
+Universtity of Bergen Library,265,1,265,0.00,164,0,164,0.00
+Uniwersytet Lodzki (University of Lodz),265,1,265,0.00,164,0,164,0.00
+Verein zur Forderung des Open Access Publizierens in den Quantenwissenschaften,265,1,265,0.00,164,0,164,0.00
+Westerdijk Fungal Biodiversity Institute,265,1,265,0.00,164,0,164,0.00
+World Health Organization Regional Office for the Eastern Mediterranean (WHO/EMRO),265,1,265,0.00,164,0,164,0.00
+"World Health Organization, Western Pacific Regional Office",265,1,265,0.00,164,0,164,0.00
+World Journal of Emergency Medicine,265,1,265,0.00,164,0,164,0.00
+Xia & He Publishing,265,1,265,0.00,164,0,164,0.00
+Yong Loo Lin School of Medicine,265,1,265,0.00,164,0,164,0.00
+Zhejiang University Press,265,1,265,0.00,164,0,164,0.00
